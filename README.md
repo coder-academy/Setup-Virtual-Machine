@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png"></p>
 
-# Ruby on Rails setup for Linux
-How to setup rails for linux on your Mac or PC
+# Setup for Linux
+How to setup a linux on your Mac or PC suitable for Ruby on Rails.
 
 Steps:
 Skip to step 6 if you are running linux natively.
